@@ -1,6 +1,16 @@
 # Hi, I'm David
 
-Creative technologist, systems thinker, and multidisciplinary artist.
+## Creative technologist, systems thinker, and multidisciplinary artist.
+
+🧠 Creative Technologist with roots in full-stack web dev, Flash animation, and systems design.
+🎥 Spent 15 years as a filmmaker and multidisciplinary artist in music/fashion.
+🖥️ Originally built immersive sites + backend tools for PlayStation, Pixar, 20th Century Fox.
+🗂️ Obsessive about cognitive UX and custom systems for media, memory, and focus.
+🧩 Currently building ProjectPilot (focus OS) and MemoryAssistant (dementia-friendly interface).
+🛠️ Working in Python, SQLite, OpenAI, local LLMs — learning fast, building real.
+🤝 Seeking collaborators who care about humane tech, brain-aligned interfaces, and real-world impact.
+🌐 More at: davidterranova.com
+
 
 I've spent the last 15 years working professionally as a filmmaker, photographer, and designer. Before that, I began my career in tech: building immersive Flash websites and games for films, brands, and platforms like Pixar, PlayStation, and 20th Century Fox. I designed and built full-stack systems from scratch in PHP/MySQL, including internal CMSs and production management tools used by teams of 60+ people.
 
